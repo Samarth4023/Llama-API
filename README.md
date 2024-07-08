@@ -44,7 +44,7 @@ LlamaAPI provides a range of functionalities to facilitate your development proc
 
 ## 📝 Documentation
 
-For detailed documentation and usage examples, please refer to the official [LlamaAPI Documentation](https://llamaapi).
+For detailed documentation and usage examples, please refer to the official [LlamaAPI Documentation](https://www.llama-api.com/).
 
 ---
 
