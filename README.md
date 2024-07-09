@@ -1,6 +1,6 @@
-# 🦙 Llama
+# 🦙 Llama-API
 
-Welcome to the **Llama** repository! This repository is dedicated to testing the `llamaapi` Python library to access LlamaAPI. Whether you're a developer, researcher, or just a tech enthusiast, you'll find valuable resources and examples here.
+Welcome to the **Llama-API** repository! This repository is dedicated to testing the `llamaapi` Python library to access LlamaAPI. Whether you're a developer, researcher, or just a tech enthusiast, you'll find valuable resources and examples here.
 
 ## 📚 About
 
